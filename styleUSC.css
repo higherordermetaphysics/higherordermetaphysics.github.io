@@ -20,7 +20,7 @@ header{
 }
 
 .navbar-2custom {
-    background-image: linear-gradient(to bottom, #F7F7FF 0%, #ffffff 100%);
+    background-image: linear-gradient(to bottom, #255F85 0%, #ffffff 100%);
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -41,7 +41,7 @@ header{
 }
 
 .navbar-2custom .nav-item:hover .nav-link {
-    color: #FFCC00 !important;
+    color: #255F85 !important;
 }
 
 .navbar-custom .nav-item .nav-link.disabled {
@@ -57,7 +57,7 @@ header{
 }
 
 .navbar-2custom .nav-item .nav-link.active {
-    color: #FFCC00 !important;
+    color: #255F85 !important;
 }
 
 header .highlight, header .current a{
@@ -68,7 +68,7 @@ header .highlight, header .current a{
 
 
 header .highlight2, header .current2 a{
-  color: #FFCC00;
+  color: #255F85;
   font-size:  32px;
 /*  font-weight: bold;
 */}
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, p{
 }
 
 .link-danger {
-  color: #FFCC00 !important;
+  color: #255F85 !important;
   text-decoration: none !important;
 }
 
