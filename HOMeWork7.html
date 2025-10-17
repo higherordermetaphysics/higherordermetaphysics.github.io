@@ -107,14 +107,20 @@
   table {
     border-collapse: collapse;
     border: none;
+    border-spacing: 0;
+  }
+
+  table, tr, td {
+    border: none;
   }
 
   td {
     border: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
   }
 
   tr:last-child td {
-    border-bottom: none;
+    border-bottom: none !important;
   }
 </style>
           </tbody>
