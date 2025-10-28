@@ -41,7 +41,7 @@ header{
 }
 
 .navbar-2custom .nav-item:hover .nav-link {
-    color: #1d59af !important;
+    color: #5a8fd2 !important;
 }
 
 .navbar-custom .nav-item .nav-link.disabled {
@@ -57,7 +57,7 @@ header{
 }
 
 .navbar-2custom .nav-item .nav-link.active {
-    color: #1d59af !important;
+    color: #5a8fd2 !important;
 }
 
 header .highlight, header .current a{
@@ -68,7 +68,7 @@ header .highlight, header .current a{
 
 
 header .highlight2, header .current2 a{
-  color: #1d59af;
+  color: #5a8fd2;
   font-size:  32px;
 /*  font-weight: bold;
 */}
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, p{
 }
 
 .link-danger {
-  color: #1d59af !important;
+  color: #5a8fd2 !important;
   text-decoration: none !important;
 }
 
