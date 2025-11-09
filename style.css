@@ -109,6 +109,23 @@ h1, h2, h3, h4, h5, p{
   text-decoration: none !important;
 }
 
+.link-abstract {
+    color: black !important; 
+    text-decoration: none !important;
+}
+
+.link-abstract:hover .nav-link {
+    color: #57068c !important;
+}
+
+.link-abstract.disabled {
+    color: gray !important;
+}
+
+.link-abstract.active {
+    color: #57068c !important;
+}
+
 a:hover {
   color: #990000;
   text-style: bold;
